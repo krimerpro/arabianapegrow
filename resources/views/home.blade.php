@@ -64,7 +64,7 @@
             <div class="col-md-6 col-lg-6">
                 <div style="margin-bottom:15px;border-bottom-style: solid;">
                     <h3 style="font-size:16px">Tax</h3>
-                    <h4 style="font-size:24px">4% Buy | 4% Sell</h4>
+                    <h4 style="font-size:24px">10% Buy | 10% Sell</h4>
                 </div>
 
                 <div style="margin-bottom:15px;border-bottom-style: solid;">
