@@ -16,8 +16,8 @@
                         <h1 class="best-template animated" data-animation="fadeInUpShorter" data-animation-delay="1.5s">ARABIAN APE GROW</h1>
                         <h3 class="d-block white animated" data-animation="fadeInUpShorter" data-animation-delay="1.6s">The Next Generation of NFT Marketplace</h3>
                         <div class="mt-5">
-                            <a href="https://app.uniswap.org/#/swap" target="_blank" class="btn btn-lg btn-gradient-purple btn-glow mr-4 mb-2 animated" data-animation="fadeInUpShorter" data-animation-delay="1.7s">Buy on PancakeSwap</a>
-                            <a href="https://etherscan.io/token" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s">BscScan Info</a>
+                            <a href="https://app.uniswap.org/#/swap" target="_blank" class="btn btn-lg btn-gradient-purple btn-glow mr-4 mb-2 animated" data-animation="fadeInUpShorter" data-animation-delay="1.7s">Buy on Uniswap</a>
+                            <a href="https://etherscan.io/token" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s">EtherScan Info</a>
                         </div>
                     </div>
                 </div>
