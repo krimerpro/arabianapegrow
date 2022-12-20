@@ -95,7 +95,7 @@
 
                       <div style="-webkit-box-shadow: 0px 28px 28px -24px rgb(56 62 86 / 25%);box-shadow: 0px 28px 28px -24px rgb(56 62 86 / 25%);border-radius: 12px;padding: 16px 20px;text-decoration: none !important;display: block;">
                           <div class="text-center">
-                            <input type="text" value="0xxxxxxxxxx" id="smartcontractaddress" readonly style="width:100%;text-align:center;color:#ffffff;background:none;border:none" />
+                            <input type="text" value="0xb6FD38ba1078b52d476c6d9a73A03470C9a09403" id="smartcontractaddress" readonly style="width:100%;text-align:center;color:#ffffff;background:none;border:none" />
                           </div>
                           <button type="button" style="cursor: pointer;border-radius:15px;width:100%" class="btn btn-primary" onclick="copyContract()">
                               <span class="fa fa-copy"></span>
